@@ -14,10 +14,12 @@ My personal portfolio is hosted [here on GitHub](https://marcushaldane.github.io
 
 I am currently learning about computer architecture via the [NandToTetris Project](https://www.nand2tetris.org/) and about cloud computing in Azure via [Microsoft Learn](https://learn.microsoft.com/en-us/). Check out my [profile and credentials](https://learn.microsoft.com/en-us/users/marcushaldane/). 
 
+---
+
 <!-- Need Line Break-->
 ### Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icon/java.java-original.svg"/>
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg"/>
 
 <!--Here are some ideas to get you started:
 
