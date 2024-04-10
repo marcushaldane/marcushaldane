@@ -43,6 +43,15 @@ I am currently learning about computer architecture via the [NandToTetris Projec
 ### Projects and Repositories
 The [NandToTetris repository](https://github.com/marcushaldane/NandToTetris) contains my work done while reading Noam Nisan and Shimon Schocken's [*The Elements of Computing Systems: Building a Modern Computer from First Principles; Nand to Tetris Companion*](https://www.nand2tetris.org/book). The basic organizational structure to this repository is made up of projects (00-13), which contain code and other materials useful for building a HACK computer. The [project requirements](https://www.nand2tetris.org/course) can be found on [The official website of Nand to Tetris courses](https://www.nand2tetris.org/).
 
+<br/>
+--
+
+The [portolio repository](https://github.com/marcushaldane/portfolio) contains HTML, CSS and JavaScript that I've used to build a basic portfolio website. That code is hosted as both code and a website on GitHub at [https://marcushaldane.github.io/portfolio/html/index.html](https://marcushaldane.github.io/portfolio/html/index.html).
+
+<br/>
+
+The [CISC480_SignatureWorkPortfolio repository](https://github.com/marcushaldane/CISC480_SignatureWorkPortfolio) contains an assortment of course-work that I did at the University of St. Thomas during my undergrad B.S. degree. This repository contains a README.md file which goes into further explanations of the material contained in the repository.
+
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
