@@ -34,6 +34,9 @@ I am currently learning about computer architecture via the [NandToTetris Projec
 
 <!--   <img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>   -->
 
+<!-- Need Line Break-->
+<br/>
+
 ---
 <!-- Need Line Break-->
 ### Projects and Repositories
